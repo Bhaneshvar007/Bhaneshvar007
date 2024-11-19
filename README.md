@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhaneshvar Kshirsagar</h1>
 <h3 align="center">A passionate wb developer from India</h3>
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/fuJPZBIIqzbt1kAYVc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/HostGator-webhosting-hostgator-webhost-fuJPZBIIqzbt1kAYVc">via GIPHY</a></p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaneshvar007&label=Profile%20views&color=0e75b6&style=flat" alt="bhaneshvar007" /> </p>
 
