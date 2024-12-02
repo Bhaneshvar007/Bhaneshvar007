@@ -1,4 +1,4 @@
-![MasterHead](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)
+![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Bhaneshvar Kshirsagar</h1>
 <h3 align="center">A passionate web developer from India</h3>
