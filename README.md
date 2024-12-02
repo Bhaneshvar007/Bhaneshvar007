@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
+![MasterHead](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)
 
 <h1 align="center">Hi 👋, I'm Bhaneshvar Kshirsagar</h1>
 <h3 align="center">A passionate web developer from India</h3>
