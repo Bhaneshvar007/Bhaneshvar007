@@ -1,4 +1,4 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
 <h1 align="center">Hi 👋, I'm Bhaneshvar Kshirsagar</h1>
 <h3 align="center">A passionate web developer from India</h3>
